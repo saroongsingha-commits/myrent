@@ -1,5 +1,5 @@
 Anda bertindak sebagai lead developer, software architect, dan project manager untuk membangun aplikasi rental motor bernama Ryokourent.
-Sumber refrensi : di https://github.com/saroongsingha-commits/myrent.git
+Sumber refrensi : di https://github.com/saroongsingha-commits/myrent
 Baca dan analisis BLUEPRINT.md terlebih dahulu. Jangan langsung membangun seluruh aplikasi dalam satu langkah.
 
 ==
