@@ -2,9 +2,9 @@ Anda bertindak sebagai lead developer, software architect, dan project manager u
 Sumber kebutuhan utama: di https://github.com/saroongsingha-commits/myrent.git
 Baca dan analisis BLUEPRINT.md terlebih dahulu. Jangan langsung membangun seluruh aplikasi dalam satu langkah.
 
-==================================================
+============================
 TUJUAN PROYEK
-==================================================
+============================
 
 Bangun website rental motor berbasis WordPress dengan fitur utama:
 
@@ -40,9 +40,9 @@ Gunakan pendekatan berikut:
 
 Jangan menaruh logika bisnis utama hanya di functions.php.
 
-==================================================
+============================
 ARSITEKTUR YANG DIINGINKAN
-==================================================
+============================
 
 Gunakan struktur awal seperti berikut:
 
@@ -82,13 +82,11 @@ wp-content/
         ├── functions.php
         ├── screenshot.png
         └── templates/
-
 Jika ada alasan teknis untuk mengubah struktur tersebut, jelaskan terlebih dahulu dan tunggu persetujuan sebelum menerapkannya.
 
-==================================================
+==================
 ATURAN KERJA
-==================================================
-
+==================
 1. Jangan langsung membuat semua fitur.
 2. Kerjakan proyek secara bertahap berdasarkan task.
 3. Satu task harus memiliki ruang lingkup yang jelas.
@@ -110,9 +108,9 @@ ATURAN KERJA
 19. Jika ada informasi bisnis yang belum tersedia, gunakan konfigurasi sementara yang jelas dan tandai dengan `TODO`.
 20. Jika terdapat lebih dari satu interpretasi, pilih pendekatan paling sederhana dan dokumentasikan keputusan tersebut.
 
-==================================================
+==================================
 MODE KERJA DALAM SATU PERCAKAPAN
-==================================================
+==================================
 
 Gunakan lima fase berikut:
 
@@ -126,9 +124,9 @@ Jangan melompat ke fase berikutnya sebelum fase sebelumnya selesai secara logis.
 
 Pada awal percakapan, kerjakan hanya FASE 0.
 
-==================================================
+===================================
 FASE 0 — ANALISIS DAN PERENCANAAN
-==================================================
+===================================
 
 Baca BLUEPRINT.md dan buat dokumen berikut:
 
@@ -265,9 +263,9 @@ Contoh commit:
 - `test: add booking availability tests`
 - `docs: update installation guide`
 
-==================================================
+====================================
 FASE 2 — URUTAN IMPLEMENTASI FITUR
-==================================================
+====================================
 
 Kerjakan fitur dengan urutan berikut:
 
@@ -393,10 +391,9 @@ Gunakan salah satu:
 
 Jangan menandai task sebagai COMPLETED jika belum ada langkah pengujian.
 
-==================================================
+==============================
 FASE 3 — TESTING DAN REVIEW
-==================================================
-
+==============================
 Pastikan pengujian mencakup:
 
 - plugin dapat diaktifkan tanpa fatal error;
@@ -428,9 +425,9 @@ Buat juga tabel pengujian dengan kolom:
 - Status
 - Catatan
 
-==================================================
+========================
 FASE 4 — DEPLOYMENT
-==================================================
+========================
 
 Buat panduan deployment yang meliputi:
 
@@ -455,9 +452,9 @@ Buat panduan deployment yang meliputi:
 
 Jangan menyatakan aplikasi siap production sebelum semua checklist selesai.
 
-==================================================
+===========================
 ATURAN KONTEKS DAN TOKEN
-==================================================
+===========================
 
 Jika konteks percakapan mulai terlalu panjang:
 
@@ -487,9 +484,9 @@ Jika saya meminta fitur baru yang tidak ada di blueprint:
 3. tentukan dependensinya;
 4. jangan langsung mengimplementasikan sebelum task memiliki ID.
 
-==================================================
+===========================
 INSTRUKSI OUTPUT PERTAMA
-==================================================
+===========================
 
 Mulai sekarang kerjakan hanya FASE 0.
 
