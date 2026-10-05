@@ -8,18 +8,18 @@
 
 ### A. Profil & Identitas Bisnis
 * **Nama Brand:** Ryokourent
-* **Kategori Bisnis:** Rental Sepeda Motor & Adventure Fleet
+* **Kategori Bisnis:** Rental Sepeda Motor 
 * **Wilayah Layanan:** Malang Raya (Kota Malang, Kabupaten Malang) dan Kota Wisata Batu
 * **Dua Lokasi Pool:**
   * **Pool 1 (Malang):** Jl. MT Haryono Gg. 21 No. 23, Dinoyo, Lowokwaru, Malang *(akses mudah ke kawasan kampus UB/UIN, dekat poros Soekarno-Hatta & Stasiun)*.
-  * **Pool 2 (Kota Batu):** Jl. Belakang Pompa Bensin, Jl. Diponegoro, Batu *(jantung kota wisata, dekat Alun-Alun Batu & Jatim Park)*.
+  * **Pool 2 (Kota Batu):** Jl. Belakang Pompa Bensin Jalan Diponegoro, Kota Batu *(jantung kota wisata, dekat Alun-Alun Batu & Jatim Park)*.
 * **Jam Operasional:** 07.00 – 23.00 WIB
-* **Layanan Antar & Ambil Unit:** Fleksibel, menyesuaikan situasi dan kondisi lapangan (sikon).
+* **Layanan Antar & Ambil Unit:** Konfirmasi ke admin waktu dan titik lokasi, atau ke pool terdekat.
 
 ### B. Tujuan Website
 1. **Zero-Friction WhatsApp Booking:** Menghilangkan kerumitan registrasi atau checkout berbelit-belit. Pelanggan cukup memilih armada, menentukan tanggal/jam sewa, mengisi data verifikasi identitas, lalu langsung terhubung ke WhatsApp Admin dengan draf pesanan yang rapi dan terstruktur.
 2. **Inspirasi Visual Adaptif:** Terinspirasi dari struktur visual *merapilandrover.com* yang tegas, berlatar gelap kontras tinggi (navy/hitam dengan aksen kuning/oranye energik), modern, bersih, tanpa elemen dekoratif berlebih, serta mengutamakan konversi langsung ke WhatsApp tanpa menyalin teks, gambar, atau identitas merek aslinya.
-3. **Edukasi Keamanan & Aturan Armada:** Mengedukasi pelanggan mengenai perbedaan medan jalan di Malang-Batu dan **kewajiban tegas penggunaan Trail CRF 150L untuk rute Bromo** demi mencegah kerusakan transmisi skutik dan kecelakaan di lautan pasir.
+3. **Edukasi Keamanan & Aturan Armada:** Mengedukasi pelanggan mengenai perbedaan medan jalan di Malang-Batu dan **kewajiban tegas unit matic dilarang digunakan untuk rute Bromo, cangar atau medan tanjakan turunan extrem lainnya kecuali Trail CRF 150L**  demi mencegah kerusakan transmisi skutik, malfungsi rem dan kecelakaan di lautan pasir. Untuk Tujuan pemakaian diluar area Malang Raya dan Batu harap konfirmasi dulu dengan admin.
 4. **Mobile-First Performance:** Struktur kode ultra-ringan yang dimuat di bawah 1.5 detik pada koneksi smartphone 4G.
 
 ---
@@ -34,19 +34,19 @@
    * Headline terarah untuk wisatawan, mahasiswa, dan mobilitas harian.
    * Subheadline informatif mencakup 2 pool Dinoyo & Batu serta jam operasional 07.00–23.00.
    * CTA Ganda: *"Booking via WhatsApp"* & *"Lihat Unit"*.
-   * Tiga Trust Badge: 2 Pool Resmi, Jam 07.00–23.00, Antar-Ambil Fleksibel Sikon.
+   * Tiga Trust Badge: 2 Pool Resmi, Jam 07.00–23.00, Antar-Ambil Konfirmasi dengan admin.
 3. **Keunggulan Layanan (01–06):**
    * 01. Dua Pool Strategis (Dinoyo Malang & Diponegoro Batu)
    * 02. Unit Prima & Rutin Servis (Termasuk 2 Helm SNI + Jas Hujan)
    * 03. Jam Pelayanan Panjang (07.00 – 23.00 WIB)
-   * 04. Layanan Antar & Ambil Unit (Menyesuaikan Sikon)
-   * 05. Unit Khusus Bromo Adventure (Trail CRF 150L Wajib)
+   * 04. Layanan Antar & Ambil Unit (Waktu konfirmasi dengan admin)
+   * 05. Unit Khusus Bromo Adventure, cangar dan tanjakan turunan Extrem (Trail CRF 150L Wajib)
    * 06. Transaksi Transparan & Cepat via WhatsApp
 4. **Katalog Unit Motor:**
    * Tab filter: Semua Unit, BeAT Series, Scoopy & Vario, Trail Adventure.
    * Grid kartu motor dengan foto asli, spesifikasi cc, transmisi, keunggulan rute, status ketersediaan, format harga placeholder (Harian, Mingguan, Bulanan), tombol *"Sewa Sekarang"*, dan tombol *"Chat WA"*.
 5. **Konsultan Rute & Armada Ryokou:**
-   * Fitur analisa rute berdasarkan kontur jalan (Bromo, tanjakan Batu, atau keliling kota).
+   * Fitur analisa rute berdasarkan kontur jalan (Bromo, cangar, tanjakan Batu, atau keliling kota).
 6. **Cara Sewa 3 Langkah:**
    * (1) Pilih Motor & Tanggal
    * (2) Kirim Data Identitas
@@ -55,7 +55,7 @@
    * Informasi detail Pool Malang Dinoyo & Pool Batu Diponegoro, keunggulan akses, link Google Maps, dan ketentuan antar-jemput.
 8. **Syarat, Ketentuan & FAQ Accordion:**
    * Syarat identitas (e-KTP asli + 2 dokumen pendukung sah).
-   * Ketentuan batas wilayah Malang Raya & Kota Batu (luar kota wajib konfirmasi tertulis).
+   * Ketentuan batas wilayah Malang Raya & Kota Batu (luar kota wajib konfirmasi tertulis Admin).
    * 7 Pertanyaan umum (dokumen jaminan, keterlambatan, trip Bromo, alasan CRF wajib, batas wilayah, luar kota, jadwal operasional).
 9. **Form Booking Minimal & Live WhatsApp Generator:**
    * Formulir input ringkas dengan penghitung durasi sewa otomatis.
@@ -70,22 +70,22 @@
 ## 3. Copywriting Utama
 
 * **Headline Hero:**
-  > *"Eksplorasi Malang & Wisata Batu Lebih Bebas, Praktis, dan Tanpa Macet."*
+  > *"Eksplorasi Malang Raya & Wisata Batu Lebih Bebas, Praktis, dan Tanpa Macet."*
 * **Subheadline Hero:**
-  > *"Solusi sewa motor terpercaya untuk wisatawan, mahasiswa, dan mobilitas harian. Dari skutik lincah hemat BBM untuk keliling kota hingga motor Trail CRF 150L khusus petualangan Bromo, siap diantar ke lokasi Anda."*
+  > *"Solusi sewa motor terpercaya untuk wisatawan, mahasiswa, dan mobilitas harian. Dari skutik lincah hemat BBM untuk keliling kota hingga motor Trail CRF 150L khusus petualangan Bromo, cangar,  siap diantar ke lokasi Anda."*
 * **Deskripsi Kategori Unit:**
   * **Honda BeAT Series (Deluxe, CBS, Street):**
     > *"Lincah dan super irit untuk keliling dalam kota Malang. Bodi ramping memudahkan bermanuver di gang kuliner, kawasan kampus Dinoyo-Suhat, hingga pusat oleh-oleh tanpa khawatir macet atau boros BBM."*
   * **Honda Scoopy & Vario Series (Scoopy, Vario 125, Vario 160):**
     > *"Nyaman, bertenaga, dan stylish untuk perjalanan wisata berpasangan maupun harian. Sangat mantap dan stabil diajak melibas rute menanjak menuju Kota Wisata Batu dengan bagasi lapang untuk barang bawaan."*
   * **Honda Trail CRF 150L:**
-    > *"Didesain khusus untuk penjelajah sejati dan WAJIB untuk trip ke Kaldera Gunung Bromo. Suspensi Showa upside-down dan ban dual-purpose siap melintasi medan pasir berbisik dan tanjakan ekstrem dengan aman."*
+    > *"Didesain khusus untuk penjelajah sejati dan WAJIB untuk trip ke Kaldera Gunung Bromo, BrakSeng Cangar. Suspensi Showa upside-down dan ban dual-purpose siap melintasi medan pasir berbisik dan tanjakan ekstrem dengan aman."*
 * **Copywriting Cara Sewa (3 Langkah):**
   1. **Pilih Motor & Tanggal:** *"Tentukan armada yang sesuai dengan rute Anda dan tentukan tanggal mulai serta durasi sewa."*
   2. **Kirim Data Identitas:** *"Lengkapi formulir identitas dan nomor darurat, draf pesan rapi otomatis tersusun untuk admin WhatsApp."*
   3. **Motor Diantar atau Diambil:** *"Admin mengonfirmasi ketersediaan slot. Ambil unit di Pool Malang/Batu atau gunakan layanan antar sesuai situasi dan kondisi."*
 * **Copywriting Aturan Penting:**
-  * *"Peringatan Trip Bromo: Demi keselamatan jiwa dan kondisi transmisi motor, seluruh unit matik DILARANG KERAS ke lautan pasir Bromo. Trip Bromo WAJIB menyewa unit Honda Trail CRF 150L."*
+  * *"Peringatan Trip Bromo: Demi keselamatan jiwa dan kondisi transmisi motor, seluruh unit matik DILARANG KERAS ke lautan pasir Bromo, BrakSeng cangar. Trip Bromo WAJIB menyewa unit Honda Trail CRF 150L."*
   * *"Perjalanan Luar Kota: Penggunaan armada di luar batas wilayah Malang Raya dan Kota Batu WAJIB memperoleh persetujuan tertulis admin sebelum keberangkatan."*
 
 ---
@@ -102,7 +102,7 @@
 | **Honda Vario 160** | Scoopy-Vario | 160 cc 4-Valve | Nyaman, Bertenaga, Stabil | `Rp [Tanya Admin]` | `Rp [Paket Mingguan]` | `Rp [Paket Bulanan]` | Booking Menipis |
 | **Trail CRF 150L** | Trail Adventure | 150 cc Manual | Adventure (**Wajib Bromo**) | `Rp [Tanya Admin]` | `Rp [Paket Mingguan]` | `Rp [Paket Bulanan]` | Tersedia |
 
-*Setiap sewa mencakup: 2 Helm SNI bersih + 2 Jas Hujan.*
+*Setiap sewa mencakup: 2 Helm SNI bersih +  Jas Hujan.*
 
 ---
 
@@ -111,14 +111,15 @@
 ### A. Formulir Booking Minimal (Field Input):
 1. **Nama Pelanggan:** Nama lengkap sesuai e-KTP.
 2. **Alamat Sesuai KTP:** Alamat domisili asal.
-3. **Alamat Domisili / Tempat Menginap:** Hotel, homestay, villa, atau kost di Malang/Batu.
-4. **ID Akun Medsos:** Instagram / Facebook (untuk verifikasi profil).
-5. **Nomor WhatsApp:** Nomor kontak utama penyewa.
-6. **Nomor Kontak Darurat:** Nomor keluarga/kerabat yang tidak ikut trip.
-7. **Pilihan Motor:** Dropdown armada (BeAT Deluxe, BeAT CBS, BeAT Street, Scoopy, Vario 125, Vario 160, CRF 150L).
-8. **Lokasi Pengambilan:** Pool Malang Dinoyo, Pool Batu Diponegoro, Stasiun Malang, atau Antar ke Lokasi Menginap (menyesuaikan sikon).
-9. **Jadwal Sewa:** Tanggal & Jam Mulai (07.00–23.00) dan Tanggal & Jam Selesai.
-10. **Catatan Tambahan:** Ukuran helm, perlengkapan anak, atau tujuan rute khusus.
+3. **ID Pendukung Kartu Mahasiswa/Karyawan/SIM:** Jenis ID dan Nomor 
+4. **Alamat Domisili / Tempat Menginap:** Hotel, homestay, villa, atau kost di Malang/Batu.
+5. **ID Akun Medsos:** Instagram / Facebook (untuk verifikasi profil).
+6. **Nomor WhatsApp:** Nomor kontak utama penyewa.
+7. **Nomor Kontak Darurat:** Nomor keluarga/kerabat yang tidak ikut trip.
+8. **Pilihan Motor:** Dropdown armada (BeAT Deluxe, BeAT CBS, BeAT Street, Scoopy, Vario 125, Vario 160, CRF 150L).
+9. **Lokasi Pengambilan:** Pool Malang Dinoyo, Pool Batu Diponegoro, Stasiun Malang, atau Antar ke Lokasi Menginap (menyesuaikan sikon).
+10. **Jadwal Sewa:** Tanggal & Jam Mulai (07.00–23.00) dan Tanggal & Jam Selesai.
+11. **Catatan Tambahan:** Ukuran helm, perlengkapan anak, atau tujuan rute khusus.
 
 ### B. Alur Pemrosesan (End-to-End Workflow):
 ```
@@ -136,7 +137,7 @@ Pelanggan Diarahkan ke WhatsApp Resmi Ryokourent (wa.me)
           ↓
 Admin Menerima Pesan, Cek Slot Unit & Jadwal Antar
           ↓
-Admin Meminta Foto e-KTP + 2 Data Pendukung & Pembayaran DP
+Admin Meminta Foto e-KTP +  Data Pendukung & Pembayaran DP
           ↓
 Admin Mengubah Status di WordPress: "Menunggu" → "Dikonfirmasi"
           ↓
@@ -234,6 +235,7 @@ function ryokou_register_rental_statuses() {
 ### B. Skema Field ACF CPT "Penyewaan":
 * `customer_name` (Text): Nama pelanggan sesuai KTP
 * `customer_ktp_address` (Textarea): Alamat resmi di KTP
+* `customer_other_id` (Textarea): ID Pendukung Kartu Mahasiswa/Karyawan/SIM 
 * `customer_stay_address` (Text): Tempat menginap di Malang/Batu
 * `customer_whatsapp` (Text): No. WhatsApp aktif
 * `customer_emergency_phone` (Text): No. kontak darurat keluarga
@@ -263,12 +265,12 @@ function ryokou_register_rental_statuses() {
 
 ### D. Inventaris Internal Model Unit & Banyaknya Unit Fisik:
 * **Prinsip Tampilan:**
-  Banyaknya unit fisik (misal: 8 unit BeAT Deluxe, 6 unit Vario 160, 5 unit Trail CRF 150L beserta plat nomornya) **TIDAK DITAMPILKAN DI KATALOG PUBLIK**. Hal ini menjaga tampilan halaman depan tetap elegan, bersih, dan profesional.
+  Banyaknya unit fisik (misal: 8 unit BeAT Deluxe, 2 unit Vario 160, 1 unit Trail CRF 150L beserta plat nomornya) **TIDAK DITAMPILKAN DI KATALOG PUBLIK**. Hal ini menjaga tampilan halaman depan tetap elegan, bersih, dan profesional.
 * **Fungsi Internal:**
   Data kuota unit fisik digunakan khusus di dashboard Admin CPT untuk:
   1. Menghitung ketersediaan unit real-time (*Tersedia = Total Unit - Sedang Jalan - Dalam Servis*).
   2. Mencegah *double booking* armada pada tanggal yang sama.
-  3. Mencatat riwayat servis dan alokasi plat nomor motor per penyewa.
+  3. Mencatat riwayat servis & ganti olie dan alokasi plat nomor motor per penyewa.
 
 ### E. Manajemen Tarif Rental (Satuan, Multi-Update & Paket):
 1. **Tarif Satuan:** Pengaturan harga harian (24 jam), mingguan (7 hari), dan bulanan (30 hari) per model motor.
@@ -287,6 +289,7 @@ Halo Admin Ryokourent, saya ingin melakukan pemesanan sewa motor dengan rincian 
 📋 DATA PENYEWA
 • Nama Lengkap   : Dimas Aditya Pratama
 • Alamat KTP     : Jl. Merak No. 12, Surabaya
+• ID pendukung   : Kartu Mahasiswa
 • Tempat Menginap: Hotel Santika Premiere Malang
 • No. WhatsApp   : 081298765432
 • No. Darurat    : 081345678901 (Keluarga)
@@ -318,7 +321,7 @@ Mohon konfirmasi ketersediaan unit dan rincian dokumen jaminan yang perlu saya b
 HERO BANNER
   Kicker     : MALANG RAYA & KOTA WISATA BATU · 2 POOL RESMI · 07.00 - 23.00 WIB
   Headline   : Eksplorasi Malang & Wisata Batu Lebih Bebas, Praktis, dan Tanpa Macet.
-  Subheadline: Dari BeAT irit dalam kota hingga Trail CRF 150L khusus Bromo.
+  Subheadline: Dari BeAT irit dalam kota hingga Trail CRF 150L khusus Bromo, Cangar & Extrem Road.
   [ Tombol: Booking via WhatsApp ]    [ Tombol: Lihat Pilihan Unit ]
   Trust Badges: [Pool Dinoyo & Diponegoro] [Jam 07-23 WIB] [Antar-Ambil Sikon]
 -----------------------------------------------------------------------------------
@@ -391,4 +394,4 @@ FOOTER (HALAMAN TERAKHIR)
    * Buat Google Business Profile untuk **Pool Malang Dinoyo** dan **Pool Batu Diponegoro**.
 5. **Tahap 5: Peluncuran Resmi (Go-Live) & Maintenance**
    * Aktifkan LiteSpeed Cache dan integrasikan Google Search Console.
-   * Mulai kampanye promosi digital lokal bertarget wisatawan Malang & Batu.
+   * Mulai kampanye promosi digital lokal bertarget wisatawan & Mahasiswa Malang & Batu.
